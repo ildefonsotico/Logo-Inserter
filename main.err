@@ -1,0 +1,4 @@
+Error[18]   C:\Documents and Settings\Neotech\Desktop\Vinicius\Vinicius\USB_LOGO_PROJECT_REV01 - Cópia\main.c 2 : File can not be opened
+    Not in local "C:\Documents and Settings\Neotech\Desktop\Vinicius\Vinicius\USB_LOGO_PROJECT_REV01 - Cópia\USB\usb.h"
+    Not in "C:\Arquivos de programas\PICC\devices\USB/usb.h"
+    Not in "C:\Arquivos de programas\PICC\drivers\USB/usb.h"
